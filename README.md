@@ -1,3 +1,4 @@
+# streamlit link (https://northwind-sales-analysis-app.streamlit.app/)
 # Sales Analysis: Joined Trading Dataset
 
 A pandas analysis pipeline and Streamlit dashboard for the seven-table trading dataset
